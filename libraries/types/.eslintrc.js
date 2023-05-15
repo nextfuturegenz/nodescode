@@ -1,0 +1,1 @@
+module.exports = require('@nextfuturegenz/config/eslint/library');
