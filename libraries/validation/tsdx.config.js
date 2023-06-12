@@ -1,1 +1,1 @@
-module.exports = require('@nextfuturegenz/config/tsdx')
+module.exports = require('@nodescode/config/tsdx')

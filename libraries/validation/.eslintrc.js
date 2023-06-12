@@ -1,1 +1,1 @@
-module.exports = require('@nextfuturegenz/config/eslint/library');
+module.exports = require('@nodescode/config/eslint/library');

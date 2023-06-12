@@ -1,1 +1,1 @@
-module.exports = require('@nextfuturegenz/config/babel');
+module.exports = require('@nodescode/config/babel');

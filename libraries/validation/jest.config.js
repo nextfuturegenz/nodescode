@@ -1,1 +1,1 @@
-module.exports = require('@nextfuturegenz/config/jest')
+module.exports = require('@nodescode/config/jest')
